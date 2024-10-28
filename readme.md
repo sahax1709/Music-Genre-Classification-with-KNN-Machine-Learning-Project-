@@ -13,7 +13,7 @@ Project Overview
 Music genre classification is a task that categorizes audio samples into predefined genres. This project uses KNN, a simple yet powerful instance-based learning algorithm, to classify tracks based on feature vectors derived from audio data.
 
 Dataset
-The project uses the GTZAN Dataset from Kaggle, which includes:
+The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes:
 
 Genres: Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock.
 Audio files: 1,000 .wav files (100 files per genre).
