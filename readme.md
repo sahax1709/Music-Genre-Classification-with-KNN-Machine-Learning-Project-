@@ -13,6 +13,8 @@ The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which incl
 + File format: 30-second .wav files.
 + Music Genre Classification using K-Nearest Neighbors (KNN)
 
+Link to the dataset on Kaggle : [GTZAN music genre classification dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
 ### 🎛️ Features Extraction
 Using the Librosa library, we extract several key features from each audio file:
 
