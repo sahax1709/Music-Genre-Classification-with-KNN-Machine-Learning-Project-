@@ -19,7 +19,6 @@ Link to the dataset on Kaggle : [GTZAN music genre classification dataset](https
 Using the Librosa library, we extract several key features from each audio file:
 
 Model performance is evaluated based on accuracy and confusion matrix.
-
 ### 📊 Results
 After training and testing, the KNN model achieves an accuracy of approximately X% (adjust based on your results) on the GTZAN dataset. The confusion matrix reveals performance across different genres, highlighting any specific challenges in classification.
 
